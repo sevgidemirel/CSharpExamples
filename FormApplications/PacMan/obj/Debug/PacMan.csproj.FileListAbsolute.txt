@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\bin\Debug\PacMan.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\bin\Debug\PacMan.exe
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\bin\Debug\PacMan.pdb
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.exe
+c:\users\dell\documents\visual studio 2015\Projects\PacMan\PacMan\obj\Debug\PacMan.pdb

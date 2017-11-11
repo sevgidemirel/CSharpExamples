@@ -1,6 +1,0 @@
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csprojResolveAssemblyReference.cache
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
-c:\users\dell\documents\visual studio 2015\Projects\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb

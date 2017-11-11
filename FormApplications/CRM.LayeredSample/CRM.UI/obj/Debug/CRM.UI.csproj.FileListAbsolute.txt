@@ -1,0 +1,32 @@
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Form1.resources
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Properties.Resources.resources
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csproj.GenerateResource.Cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe.config
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.exe
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.exe
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.UI.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Common.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Dal.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\bin\Debug\CRM.Entity.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Form1.resources
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Properties.Resources.resources
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customers.frm_CustomerUpdate.resources
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.UI\obj\Debug\CRM.UI.Customers.frm_CustomerAdd.resources

@@ -1,0 +1,10 @@
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\obj\Debug\CRM.Common.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Common\bin\Debug\CRM.Common.pdb

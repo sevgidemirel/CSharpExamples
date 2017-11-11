@@ -1,0 +1,18 @@
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Dal.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Dal.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Common.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Entity.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Common.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Entity.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Dal.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Dal.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Common.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Entity.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Common.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\bin\Debug\CRM.Entity.pdb
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.dll
+C:\Users\Dell\Desktop\CRM.LayeredSample\CRM.LayeredSample\CRM.Dal\obj\Debug\CRM.Dal.pdb

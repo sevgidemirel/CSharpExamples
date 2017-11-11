@@ -1,0 +1,6 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\bin\Debug\Icecek Menusu.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\bin\Debug\Icecek Menusu.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\bin\Debug\Icecek Menusu.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\obj\Debug\Icecek Menusu.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\obj\Debug\Icecek Menusu.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Icecek Menusu\obj\Debug\Icecek Menusu.pdb

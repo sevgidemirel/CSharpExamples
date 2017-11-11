@@ -1,0 +1,6 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\bin\Debug\Street Fight.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\bin\Debug\Street Fight.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\bin\Debug\Street Fight.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\obj\Debug\Street Fight.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\obj\Debug\Street Fight.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\Odevler\Street Fight\obj\Debug\Street Fight.pdb

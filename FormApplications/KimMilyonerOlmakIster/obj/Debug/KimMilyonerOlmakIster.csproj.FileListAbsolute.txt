@@ -1,0 +1,48 @@
+C:\Users\Wissen\Desktop\Sevgi Demirel\eylül\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Form1.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Form1.resources
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Wissen\Desktop\pacman\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Form1.resources
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Section_1\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Form1.resources
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\ödevler\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.frmOdul.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Form1.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.frmOdul.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Dell\Desktop\KimMilyonerOlmakIster (1)\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache

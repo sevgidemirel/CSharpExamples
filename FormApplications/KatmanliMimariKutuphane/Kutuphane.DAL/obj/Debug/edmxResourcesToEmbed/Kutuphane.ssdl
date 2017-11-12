@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KutuphaneDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapId" />
+    </Key>
+    <Property Name="KitapId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KitapAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapKonusu" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yayinevi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YayinTarihi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YazarId" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Yazarlar">
+    <Key>
+      <PropertyRef Name="YazarId" />
+    </Key>
+    <Property Name="YazarId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YazarAd" Type="nvarchar" MaxLength="50" />
+    <Property Name="YazarSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ozgecmis" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Kitaplar_Yazarlar">
+    <End Role="Yazarlar" Type="Self.Yazarlar" Multiplicity="0..1" />
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yazarlar">
+        <PropertyRef Name="YazarId" />
+      </Principal>
+      <Dependent Role="Kitaplar">
+        <PropertyRef Name="YazarId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KutuphaneDBModelStoreContainer">
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yazarlar" EntityType="Self.Yazarlar" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kitaplar_Yazarlar" Association="Self.FK_Kitaplar_Yazarlar">
+      <End Role="Yazarlar" EntitySet="Yazarlar" />
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

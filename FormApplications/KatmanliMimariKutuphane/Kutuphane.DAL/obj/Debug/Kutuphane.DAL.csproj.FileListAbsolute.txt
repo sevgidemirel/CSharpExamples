@@ -1,0 +1,9 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\Kutuphane.DAL.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\Kutuphane.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\Kutuphane.DAL.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\obj\Debug\Kutuphane.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DAL\obj\Debug\Kutuphane.DAL.pdb

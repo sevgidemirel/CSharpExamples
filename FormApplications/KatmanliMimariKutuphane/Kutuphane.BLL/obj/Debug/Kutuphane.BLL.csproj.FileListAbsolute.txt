@@ -1,0 +1,14 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.BLL.dll.config
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.BLL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.BLL.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.DAL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.DTO.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.DAL.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.DTO.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.pdb

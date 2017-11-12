@@ -1,0 +1,5 @@
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DTO\bin\Debug\Kutuphane.DTO.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DTO\bin\Debug\Kutuphane.DTO.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DTO\obj\Debug\Kutuphane.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DTO\obj\Debug\Kutuphane.DTO.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\KatmanliMimariKutuphane\Kutuphane.DTO\obj\Debug\Kutuphane.DTO.pdb

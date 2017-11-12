@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KutuphaneDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapId" />
+    </Key>
+    <Property Name="KitapId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KitapAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapKonusu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yayinevi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YayinTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YazarId" Type="Int32" />
+    <NavigationProperty Name="Yazarlar" Relationship="Self.FK_Kitaplar_Yazarlar" FromRole="Kitaplar" ToRole="Yazarlar" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Yazarlar">
+    <Key>
+      <PropertyRef Name="YazarId" />
+    </Key>
+    <Property Name="YazarId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YazarAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YazarSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ozgecmis" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kitaplars" Relationship="Self.FK_Kitaplar_Yazarlar" FromRole="Yazarlar" ToRole="Kitaplar" />
+  </EntityType>
+  <Association Name="FK_Kitaplar_Yazarlar">
+    <End Role="Yazarlar" Type="Self.Yazarlar" Multiplicity="0..1" />
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yazarlar">
+        <PropertyRef Name="YazarId" />
+      </Principal>
+      <Dependent Role="Kitaplar">
+        <PropertyRef Name="YazarId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KutuphaneDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kitaplars" EntityType="Self.Kitaplar" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Yazarlars" EntityType="Self.Yazarlar" />
+    <AssociationSet Name="FK_Kitaplar_Yazarlar" Association="Self.FK_Kitaplar_Yazarlar">
+      <End Role="Yazarlar" EntitySet="Yazarlars" />
+      <End Role="Kitaplar" EntitySet="Kitaplars" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

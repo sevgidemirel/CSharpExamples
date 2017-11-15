@@ -1,0 +1,5 @@
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\RSS with multiThead\PlugInProxy\bin\Debug\PlugInProxy.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\RSS with multiThead\PlugInProxy\bin\Debug\PlugInProxy.pdb
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\RSS with multiThead\PlugInProxy\obj\Debug\PlugInProxy.csprojResolveAssemblyReference.cache
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\RSS with multiThead\PlugInProxy\obj\Debug\PlugInProxy.dll
+C:\Users\Section_1\Desktop\Sevgi Demirel\kasım\RSS with multiThead\PlugInProxy\obj\Debug\PlugInProxy.pdb

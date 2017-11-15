@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F73B7D9E-4A6D-40B9-832C-0DF9776C6D22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A8539E68-1010-42C8-AA51-67F8761AE326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml_RSS_UI", "Xml_RSS_UI\Xml_RSS_UI.csproj", "{B43E7612-3824-4ADA-A523-19663CF12111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugInProxy", "PlugInProxy\PlugInProxy.csproj", "{39F6645B-7B66-4FCA-9EFC-D54876933900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnnLib", "CnnLib\CnnLib.csproj", "{B269477C-7145-4C1D-8D62-FD4A5A591E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeLib", "SerializeLib\SerializeLib.csproj", "{289CD0C7-6F82-4522-9FB6-46C250BAAA1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilliyetLib", "MilliyetLib\MilliyetLib.csproj", "{832EFD9B-9056-4BD2-9DA2-906080DAEDDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43E7612-3824-4ADA-A523-19663CF12111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43E7612-3824-4ADA-A523-19663CF12111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43E7612-3824-4ADA-A523-19663CF12111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43E7612-3824-4ADA-A523-19663CF12111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F6645B-7B66-4FCA-9EFC-D54876933900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F6645B-7B66-4FCA-9EFC-D54876933900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F6645B-7B66-4FCA-9EFC-D54876933900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F6645B-7B66-4FCA-9EFC-D54876933900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B269477C-7145-4C1D-8D62-FD4A5A591E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B269477C-7145-4C1D-8D62-FD4A5A591E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B269477C-7145-4C1D-8D62-FD4A5A591E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B269477C-7145-4C1D-8D62-FD4A5A591E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289CD0C7-6F82-4522-9FB6-46C250BAAA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289CD0C7-6F82-4522-9FB6-46C250BAAA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289CD0C7-6F82-4522-9FB6-46C250BAAA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289CD0C7-6F82-4522-9FB6-46C250BAAA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832EFD9B-9056-4BD2-9DA2-906080DAEDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832EFD9B-9056-4BD2-9DA2-906080DAEDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832EFD9B-9056-4BD2-9DA2-906080DAEDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832EFD9B-9056-4BD2-9DA2-906080DAEDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B43E7612-3824-4ADA-A523-19663CF12111} = {A8539E68-1010-42C8-AA51-67F8761AE326}
+		{39F6645B-7B66-4FCA-9EFC-D54876933900} = {F73B7D9E-4A6D-40B9-832C-0DF9776C6D22}
+		{B269477C-7145-4C1D-8D62-FD4A5A591E97} = {F73B7D9E-4A6D-40B9-832C-0DF9776C6D22}
+		{289CD0C7-6F82-4522-9FB6-46C250BAAA1C} = {F73B7D9E-4A6D-40B9-832C-0DF9776C6D22}
+		{832EFD9B-9056-4BD2-9DA2-906080DAEDDC} = {F73B7D9E-4A6D-40B9-832C-0DF9776C6D22}
+	EndGlobalSection
+EndGlobal

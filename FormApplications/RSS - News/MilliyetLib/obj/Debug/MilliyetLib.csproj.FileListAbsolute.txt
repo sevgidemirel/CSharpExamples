@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\bin\Debug\MilliyetLib.dll
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\bin\Debug\MilliyetLib.pdb
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\bin\Debug\PlugInProxy.dll
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\bin\Debug\PlugInProxy.pdb
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\obj\Debug\MilliyetLib.dll
+C:\Users\Dell\Desktop\RSS with multiThead\MilliyetLib\obj\Debug\MilliyetLib.pdb
